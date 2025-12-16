@@ -23,7 +23,7 @@
 - title: Experience
   type: time_table
   contents:
-    - title: Associate Scientist
+    - title: Scientist
       institution: UCAR/NHC
       year: 2022 - 
       description:
@@ -68,9 +68,10 @@
   contents:
     - title: Tropical Cyclones
       items: 
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+        - Storm Surge
+        - Prediction
+        - Risk Reduction
+    - title: Lightning
       items:
         - Description 1.
         - Description 2.

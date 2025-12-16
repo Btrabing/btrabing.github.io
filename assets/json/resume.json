@@ -1,11 +1,11 @@
 {
   "basics": {
     "name": "Benjamin Trabing",
-    "label": "Associate Scientist",
+    "label": "Scientist",
     "image": "",
     "email": "trabing@ucar.edu",
     "url": "https://btrabing.github.io/",
-    "summary": "Doctor of Atmospheric Science, Tropical Cyclone Expert, and Software Developer",
+    "summary": "Doctor of Atmospheric Science, Hurricane Expert, and Software Developer",
     "location": {
       "address": "3090 Center Green Drive",
       "postalCode": "CO 80301",
@@ -23,14 +23,14 @@
   },
   "work": [
     {
-      "name": "UCAR/NHC, Remote",
-      "position": "Associate Scientist III",
+      "name": "UCAR/CPAESS/NHC, Remote",
+      "position": "Scientist III",
       "url": "https://www.nhc.noaa.gov",
       "startDate": "2022-11-01",
       "endDate": "",
       "summary": "Improving the representation of tropical cyclone winds in models and expanding storm surge forecasting capabilities to U.S. interests in the Pacific.",
       "highlights": [
-        "Storm-surge"
+        "Storm-surge", "Model Development", "Observation Verification"
       ]
     },
     {
@@ -54,9 +54,29 @@
       "highlights": [
         "Idealized Modeling", "WRF","Radiation","Cloud Microphysics"
       ]
-    }
+    },                                                                           
+    {                                                                            
+      "name": "CIMMS/NSSL",                                       
+      "position": "Undergraduate Research Assistant",                                 
+      "url": "https://www.nssl.noaa.gov/",                                       
+      "startDate": "2013-12-01",                                                 
+      "endDate": "2016-05-01",                                                   
+      "summary": "Data processing and analysis of Oklahoma Lightning Mapping Arrays",
+      "highlights": [                                                            
+        "Data Processing", "Lightning Observations"             
+      ]                                                                          
+    } 
   ],
-  "volunteer": [],
+  "volunteer": [
+    {                                                                            
+      "position": "AMS STAC Committee on Weather Analysis and Forecasting",                            
+      "startDate": "2025-01-16"                                                 
+    },
+    {                                                                            
+      "position": "Associate Editor for Weather and Forecasting",      
+      "startDate": "2024-01-01"                                                   
+    }                                                                            
+  ],
   "education": [
     {
       "institution": "Colorado State University, Fort Collins, Colorado",
