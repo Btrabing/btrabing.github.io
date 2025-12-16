@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='https://www.ucar.edu/'>Associate Scientist at UCAR/NHC</a>.
+subtitle: <a href='https://www.ucar.edu/'>Scientist at UCAR/CPAESS/NHC</a>.
 
 profile:
   align: right
@@ -18,4 +18,4 @@ latest_posts: false  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-I am an Associate Scientist at the University Corporation for Atmospheric Research (UCAR) working remotely for the National Hurricane Center. I got my M.S. and Ph.D. in atmospheric science from Colorado State University and a B.S. in meteorology from the University of Oklahoma. I have a passion for both learning and teaching about the weather. My research interests include tropical meteorology, tropical cyclones, lightning, mesoscale meteorology, and radiation. My goal is to improve forecasts of tropical cyclone hazards and I am actively working on a number of projects to better communicate tropical cyclone intensity forecasts and provide storm surge forecasts to new areas around the world. 
+I am a scientist at the University Corporation for Atmospheric Research (UCAR) working remotely for the National Hurricane Center. I got my M.S. and Ph.D. in atmospheric science from Colorado State University and a B.S. in meteorology from the University of Oklahoma. I have a passion for both learning and teaching about the weather. My main research interests include tropical meteorology, tropical cyclones, lightning, mesoscale meteorology, and radiation but I have broad interests in too many things to list. My goal is to improve forecasts of tropical cyclone hazards and I am actively working on a number of projects to better communicate tropical cyclone intensity forecasts and improve storm surge forecasts. My expertise is in hurricanes but I would love to talk to you about the weather. Don't hesitate to reach out!  
