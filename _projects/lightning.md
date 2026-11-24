@@ -13,4 +13,7 @@ Lightning can be observed from space from the Geostationary Lightning Mapper (GL
 
 There have been several research studies that have shown that lightning could be an indicator for tropical cyclone intensification; however, a there have been a few other studies that have shown the opposite. The reasons for this could be related to differences in the large scale thermodynamics and background aerosol field.
 
-After developing a quality control routine to help isolate artifacts in the GLM dataset, I have been analyzing the observations from GLM. A manuscript has been submitted detailing the QC methods and another is in prep on the GLM observations in tropical cyclones. Check back later for more details.
+Research showing the use of of lightning as a predictor for tropical cyclogenesis has been published in Monthly Weather Review. Check it out at <https://journals.ametsoc.org/view/journals/mwre/154/9/MWR-D-25-0270.1.xml>.
+
+
+
