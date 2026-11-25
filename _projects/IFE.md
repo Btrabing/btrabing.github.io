@@ -12,7 +12,7 @@ Forecasting tropical cyclone intensity change remains a difficult forecast chall
 
 In this project I created interactive distributions of intensity change with errors and biases for when those forecasts were made. Click on the links below to view the distributions.
 
-Note that HWRF and HMON are going to be retired soon. Once enough data is available for the HAFS models I will add them to this page. 
+These distributions were built from forecasts by HWRF and HMON, which have since been replaced by the Hurricane Analysis and Forecast System (HAFS). I plan to add the HAFS models once there is a large enough sample. For more on how intensity forecast errors behave during rapid intensity changes, see [Trabing and Bell (2020)](https://doi.org/10.1175/WAF-D-19-0253.1).
 
 
 ---

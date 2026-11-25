@@ -5,7 +5,7 @@ permalink: /projects/
 description: A collection of my past and present projects.
 nav: true
 nav_order: 2
-display_categories: [Forecasting, Research]
+display_categories: [Storm Surge, Forecasting, Research]
 horizontal: false
 ---
 

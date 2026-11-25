@@ -19,7 +19,7 @@ WRF is free to use and is in active development by the community. I wrote some c
 
 ## Idealized Study
 
-WRF can be used in an idealized framework to help better understand the physical processes we are interested in in a simplistic framework. WRF ideal can be configured in a number of ways, but I configured it to simulate tropical cyclones in a vortex following framework. I conducted several experiments with idealized WRF to examine how radiation, upper-tropospheric temperatures, and tropical cyclone intensity are related. I also took a look at tropical cyclone structure and analyzed why some of the idealized simulations had secondary eyewalls form.
+WRF can be used in an idealized framework to help better understand the physical processes we are interested in a simplified framework. WRF ideal can be configured in a number of ways, but I configured it to simulate tropical cyclones in a vortex following framework. I ran several experiments with idealized WRF to examine how radiation, upper-tropospheric temperatures, and tropical cyclone intensity are related ([Trabing et al. 2019](https://doi.org/10.1175/JAS-D-18-0165.1)). I also looked at why secondary eyewalls formed in some of the simulations. Shortwave radiation delayed secondary eyewall formation and eyewall replacement cycles, mainly by warming the mid-upper troposphere, which stabilized the rainbands and reduced convection ([Trabing and Bell 2021](https://doi.org/10.1029/2020JD034016)).
 
 
 
@@ -27,6 +27,6 @@ WRF can be used in an idealized framework to help better understand the physical
 
 The goal of numerical weather prediction models is to provide a reasonable forecast of the future state of the atmosphere. We also need to ensure that the models future state is reasonable by conducting validation and verification studies. We know that the models will never be perfect from chaos theory, but it is important to know how wrong they are. 
 
-The last part of my dissertation included a validation study of how radiation and microphysics schemes interact to influence the precipation structure of tropical cyclones. Single moment and double moment microphysics schemes have bigger differences in precipation structure when interactive radiation is included. In particular, double moment schemes are able to produce significantly larger amounts of stratiform precipiation that may be more realistic.   
+The last part of my dissertation included a validation study of how radiation and microphysics schemes interact to influence the precipitation structure of tropical cyclones. Single moment and double moment microphysics schemes have bigger differences in precipitation structure when interactive radiation is included. In particular, double moment schemes are able to produce significantly larger amounts of stratiform precipitation that may be more realistic.   
 
 
